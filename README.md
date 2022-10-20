@@ -60,4 +60,4 @@
   
   ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhai-20&layout=compact&theme=algolia" alt="udhai-20" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrishav007&layout=compact&theme=algolia" alt="nrishav007" /></a> </p>
