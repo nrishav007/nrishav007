@@ -57,3 +57,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nrishav007)
+  
+  ## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhai-20&layout=compact&theme=algolia" alt="udhai-20" /></a> </p>
