@@ -54,9 +54,7 @@
 </a>
 
  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nrishav007)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007) ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrishav007)
   
   ## :trophy: Git profile Trophies
 
