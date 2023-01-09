@@ -10,7 +10,7 @@
 
 -  I’m looking to collaborate on **Projects**
 
--  All of my projects are available at [here](https://nrishav007.github.io/)
+-  All of my projects are available at <a href="https://nrishav007.github.io/" target="_blank">here</a>
 
 -  Ask me about **HTML , CSS , Javascript , Reactjs , Algorithms**
 
