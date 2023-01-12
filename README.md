@@ -45,7 +45,6 @@
 
 
 ## My GitHub Stats 📊
-<div>
 <a href="https://github.com/nrishav007">
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=nrishav007" />
 </a>
@@ -55,7 +54,6 @@
 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007) ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrishav007)
-  </div>
-  ## :trophy: Git profile Trophies
+  ## Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrishav007&layout=compact&theme=algolia" alt="nrishav007" /></a> </p>
