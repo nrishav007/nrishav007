@@ -48,9 +48,9 @@
 <a href="https://github.com/nrishav007">
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=nrishav007" />
 </a>
-<!-- <a href="https://github.com/nrishav007">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nrishav007&count_private=true&show_icons=true&theme=radical" />
-</a> -->
+<a href="https://github.com/nrishav007">
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nrishav007&count_private=true&show_icons=true&theme=radical" />
+</a>
 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007) ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrishav007)
