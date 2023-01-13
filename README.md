@@ -45,12 +45,8 @@
 
 
 ## My GitHub Stats 📊
-<a href="https://github.com/nrishav007">
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=nrishav007" />
-</a>
-<a href="https://github.com/nrishav007">
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrishav007" />
-</a>
 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nrishav007) ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrishav007)
