@@ -49,7 +49,7 @@
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=nrishav007" />
 </a>
 <a href="https://github.com/nrishav007">
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nrishav007&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nrishav007" />
 </a>
 
  
