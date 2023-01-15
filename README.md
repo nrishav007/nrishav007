@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 , I'm Rishav Neogi</h1>
-<h3 align="center">< Full Stack Web Developer /></h3>
+<h3 align="center">Web developer with a strong focus on React. Proficient in HTML, CSS, JavaScript, MongoDB, Express, and node. Skilled in creating responsive, user-friendly websites with a strong emphasis on design. Proven ability to adapt to new technologies and collaborate effectively in a team environment.</h3>
 <div align="center">
 <img height="500px" src="https://acegif.com/wp-content/uploads/gifs/handshake-47.gif" align="center"  />
 </div>
