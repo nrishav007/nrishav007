@@ -10,9 +10,9 @@
 
 -  I’m looking to collaborate on **Projects**
 
--  All of my projects are available at <a href="https://nrishav007.github.io/" target="_blank">here</a>
+-  All of my projects are available at <a href="https://nrishav007.github.io/" target="_blank" rel="noopener noreferrer">here</a>
 
--  Download my resume from <a href="https://drive.google.com/file/d/14TiIKCh73iK1dD6OT7IF-GASrc6esLum/view?usp=drive_link" download target="_blank">here</a>
+-  Download my resume from <a href="https://drive.google.com/file/d/14TiIKCh73iK1dD6OT7IF-GASrc6esLum/view?usp=drive_link" rel="noopener noreferrer" download target="_blank">here</a>
 
 -  Ask me about **HTML , CSS , Javascript , Reactjs , Algorithms**
 
