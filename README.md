@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
 , I'm Rishav Neogi</h1>
-<h3 align="center">Web developer with a strong focus on React. Proficient in HTML, CSS, JavaScript, MongoDB, Express, and node. Skilled in creating responsive, user-friendly websites with a strong emphasis on design. Proven ability to adapt to new technologies and collaborate effectively in a team environment.</h3>
+<h3 align="center">As a dedicated MERN (MongoDB, Express.js, React.js, Node.js) stack developer with one year of professional experience, I have honed my skills in developing robust and scalable web applications. My journey in the MERN stack has equipped me with a comprehensive understanding of both frontend and backend development, allowing me to seamlessly integrate features and functionalities across the stack.</h3>
 <div align="center">
 <img height="500px" src="https://acegif.com/wp-content/uploads/gifs/handshake-47.gif" align="center"  />
 </div>
@@ -11,6 +11,8 @@
 -  I’m looking to collaborate on **Projects**
 
 -  All of my projects are available at <a href="https://nrishav007.github.io/" target="_blank">here</a>
+
+-  Download my resume from <a href="https://drive.google.com/file/d/14TiIKCh73iK1dD6OT7IF-GASrc6esLum/view?usp=drive_link" download="Rishav_Neogi_Resume.pdf">here</a>
 
 -  Ask me about **HTML , CSS , Javascript , Reactjs , Algorithms**
 
